@@ -1,0 +1,9 @@
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\b\StarTrekGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\b\StarTrekGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\b\StarTrekGameTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\b\StarTrekGameTest\bin\Debug\StarTrekGameTest.dll
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\b\StarTrekGameTest\bin\Debug\StarTrekGameTest.pdb
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\i\StarTrekGameTest\Debug\StarTrekGameTest.csproj.CoreCompileInputs.cache
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\i\StarTrekGameTest\Debug\StarTrekGameTest.dll
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\i\StarTrekGameTest\Debug\StarTrekGameTest.pdb
+C:\Users\mcclurcj\source\repos\StarTrekGame\.vs\StarTrekGame\lut\0\i\StarTrekGameTest\Debug\StarTrekGameTest.csprojResolveAssemblyReference.cache
